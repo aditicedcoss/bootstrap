@@ -1,0 +1,136 @@
+h1
+{
+	font-size: 20px;
+	clear: both;
+	margin-left: 10%;
+	padding: 5%;
+	padding-right: 0%;
+	margin-left: 25%;
+
+}
+#header img{
+	border-radius: 80px;
+	float: right;
+	margin-top: 15%;
+	margin-right: 10%;
+}
+
+#top{
+background-image: url("images/back11.jpeg");
+background-repeat: no-repeat;
+margin-top: 1%;
+background-size: 500%;
+padding-top: 5%;
+
+position: fixed;
+
+
+
+
+
+
+}
+#footer img{
+	
+	width: 150px;
+	float:right;
+	margin-right: 5%;
+}
+
+#footer
+{
+	margin-left: 10%;
+	padding: 2%;
+
+}
+#footer p{
+	padding: 1%;
+}
+a:link{
+	text-decoration: none;
+	color: black;
+}
+
+
+a:hover{
+	color: #28b158;
+	border-color:  #28b158;
+
+}
+.button{
+	border-radius: 5px;
+	border: solid #bbac9b;
+	padding: 2%;
+	background-color: #bbac9b;
+
+}
+#one p, #one ul, .right-header{
+	padding: 3%;
+
+}
+#one li, #two li, #three li{
+	list-style: none;
+
+	
+}
+#one, #two, #three{
+	padding: 5%;
+	margin: 2%;
+}
+.col-sm-6{
+	margin-top: 5%;
+	
+}
+.image{
+	height: 50%;
+	width: 100%;
+	border-radius: 5px;
+
+}
+
+#two h2{
+	margin: 3%;
+}
+#two ul,  #three ul{
+	margin-top: 3%;
+	padding:3%;
+
+
+}
+#two{
+	border-bottom: 1px solid gray;
+	border-top: 1px solid gray;
+}
+
+
+#three p{
+	padding-top: 4%;
+	margin: 1%;
+
+}
+#three h2{
+margin: 1%;
+}
+#message{
+	width: 80%;
+	margin-top: 3%;
+}
+#three #col-sm-4{
+	margin: 2%;
+}
+#name, #email{
+	margin: 3%;
+}
+.col-md-4{
+	height: 100%;
+}
+#button{
+
+}
+#right-side{
+	float:right;
+}
+#two li{
+	margin-left: 1%;
+
+}
